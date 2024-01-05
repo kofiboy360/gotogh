@@ -3747,4 +3747,3 @@ collections:
                 required: true
                 enableAlpha: true
                 allowInput: true
-publish_mode: editorial_workflow
