@@ -1,7 +1,7 @@
 ---
 f_short-description: >-
   Tractors, agricultural trailer, harvesters, boom sprayers, irrigation kits,
-  irrigation pipes, irrigation pumps, rice trans planter, cassava planter,
+  irrigation pipes, irrigation pumps, rice transplanter, cassava planter,
   drying equipment, cassava harvester, potato harvester, grain cleaner,
   vibrating screens, PTO shafts, manure spreader, fertilizer spreader, lime
   spreader, Massey Ferguson tractor parts.
