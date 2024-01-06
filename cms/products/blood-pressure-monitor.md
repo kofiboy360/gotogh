@@ -11,15 +11,12 @@ f_description: |-
   Quia id placeat saepe itaque quis harum voluptatem eos v
 slug: blood-pressure-monitor
 f_main-product-image:
-  url: >-
-    https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/658d99be6dd46835be0decfd_1.jpg
+  url: /assets/external/658d99be6dd46835be0decfd_1.jpg
   alt: null
 f_product-images:
-  - url: >-
-      https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/6582286d07007738c195b942_image2.jpeg
+  - url: /assets/external/6582286d07007738c195b942_image2.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/6582286e07007738c195b945_image14.jpeg
+  - url: /assets/external/6582286e07007738c195b945_image14.jpeg
     alt: null
 f_category-2: cms/categories/health-products.md
 updated-on: '2023-12-28T15:52:33.484Z'

@@ -184,6 +184,8 @@ collections:
         name: date
         widget: datetime
       - *ref_0
+    editor:
+      preview: false
   - name: categories
     label: Categories
     folder: cms/categories
@@ -246,6 +248,8 @@ collections:
         name: date
         widget: datetime
       - *ref_0
+    editor:
+      preview: false
   - name: category
     label: CAtes
     folder: cms/category
@@ -340,6 +344,8 @@ collections:
         name: date
         widget: datetime
       - *ref_0
+    editor:
+      preview: false
   - name: product
     label: Items
     folder: cms/product
@@ -585,6 +591,8 @@ collections:
         name: date
         widget: datetime
       - *ref_0
+    editor:
+      preview: false
   - label: Theme Settings
     name: settings
     identifier_field: title
@@ -1166,6 +1174,58 @@ collections:
             label: Text
             name: 42d540f5
             widget: string
+          - hint: 'Original text: our contact details, key: 344ce56e'
+            label: Text
+            name: 344ce56e
+            widget: string
+          - hint: 'Original text: Contact , key: -1df83be0'
+            label: Text
+            name: '-1df83be0'
+            widget: string
+          - hint: >-
+              Original text: We’d love to hear from you. Please fill out this
+              form., key: -1f47b690
+            label: Text
+            name: '-1f47b690'
+            widget: string
+          - hint: 'Original text: Name, key: 24eeab'
+            label: Text
+            name: 24eeab
+            widget: string
+          - hint: 'Original text: Email, key: 3ff5b7c'
+            label: Text
+            name: 3ff5b7c
+            widget: string
+          - hint: 'Original text: Message, key: -63dc6819'
+            label: Text
+            name: '-63dc6819'
+            widget: string
+          - hint: 'Original text: Our , key: 25ae74'
+            label: Text
+            name: 25ae74
+            widget: string
+          - hint: 'Original text:  Details, key: -43c8d9fe'
+            label: Text
+            name: '-43c8d9fe'
+            widget: string
+          - hint: >-
+              Original text: Our friendly team would love to hear from you.,
+              key: -187b8e29
+            label: Text
+            name: '-187b8e29'
+            widget: string
+          - hint: 'Original text: Phone, key: 4984d4e'
+            label: Text
+            name: 4984d4e
+            widget: string
+          - hint: 'Original text: 0502100671, 0572003008, 0241925170, key: -17862e80'
+            label: Text
+            name: '-17862e80'
+            widget: string
+          - hint: 'Original text: Office, key: -7363d524'
+            label: Text
+            name: '-7363d524'
+            widget: string
           - hint: 'Original text: Contact Grit, key: 526ab396'
             label: Text
             name: 526ab396
@@ -1335,58 +1395,6 @@ collections:
           - hint: 'Original text:  of our friendly team., key: 1c2d99d9'
             label: Text
             name: 1c2d99d9
-            widget: string
-          - hint: 'Original text: our contact details, key: 344ce56e'
-            label: Text
-            name: 344ce56e
-            widget: string
-          - hint: 'Original text: Contact , key: -1df83be0'
-            label: Text
-            name: '-1df83be0'
-            widget: string
-          - hint: >-
-              Original text: We’d love to hear from you. Please fill out this
-              form., key: -1f47b690
-            label: Text
-            name: '-1f47b690'
-            widget: string
-          - hint: 'Original text: Name, key: 24eeab'
-            label: Text
-            name: 24eeab
-            widget: string
-          - hint: 'Original text: Email, key: 3ff5b7c'
-            label: Text
-            name: 3ff5b7c
-            widget: string
-          - hint: 'Original text: Message, key: -63dc6819'
-            label: Text
-            name: '-63dc6819'
-            widget: string
-          - hint: 'Original text: Our , key: 25ae74'
-            label: Text
-            name: 25ae74
-            widget: string
-          - hint: 'Original text:  Details, key: -43c8d9fe'
-            label: Text
-            name: '-43c8d9fe'
-            widget: string
-          - hint: >-
-              Original text: Our friendly team would love to hear from you.,
-              key: -187b8e29
-            label: Text
-            name: '-187b8e29'
-            widget: string
-          - hint: 'Original text: Phone, key: 4984d4e'
-            label: Text
-            name: 4984d4e
-            widget: string
-          - hint: 'Original text: 0502100671, 0572003008, 0241925170, key: -17862e80'
-            label: Text
-            name: '-17862e80'
-            widget: string
-          - hint: 'Original text: Office, key: -7363d524'
-            label: Text
-            name: '-7363d524'
             widget: string
           - hint: 'Original text: Everything, key: -713e592d'
             label: Text
@@ -2099,6 +2107,13 @@ collections:
           - hint: 'Original link: https://webflow.com/, key: 132c1309'
             label: Link
             name: 132c1309
+            widget: string
+          - hint: >-
+              Original link:
+              https://www.google.com/maps/place/Terrain+Equipment+Ghana+Limited/@5.7860854,-0.173448,20z/data=!4m6!3m5!1s0xfdf770b70d6f7a5:0xe14166eae2f1375d!8m2!3d5.7864043!4d-0.1729256!16s%2Fg%2F11qs8wdx3_?hl=en&entry=ttu,
+              key: 39529e94
+            label: Link
+            name: '39529e94'
             widget: string
           - hint: >-
               Original link:
@@ -2820,7 +2835,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-1936c1e5'
+            name: '-146f78d4'
             widget: object
             fields:
               - name: url
@@ -2976,7 +2991,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-5e2cbd29'
+            name: 5332035b
             widget: object
             fields:
               - name: url

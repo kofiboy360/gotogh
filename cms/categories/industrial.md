@@ -6,7 +6,7 @@ f_short-description: >-
 title: Industrial
 f_category-image:
   url: >-
-    https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/6581ab85ce3de81384ca3f14_original-equipment-manfacturing-vyrobca-zariadeni-a-komponentov-1024x683.jpg
+    /assets/external/6581ab85ce3de81384ca3f14_original-equipment-manfacturing-vyrobca-zariadeni-a-komponentov-1024x683.jpg
   alt: null
 slug: industrial
 updated-on: '2023-12-19T14:41:15.583Z'

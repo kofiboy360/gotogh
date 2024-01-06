@@ -10,12 +10,10 @@ f_description: |-
   Atque sit est veniam modi dolor alias.
   Temporib
 f_product-images:
-  - url: >-
-      https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/6582286d07007738c195b91f_image14.jpeg
+  - url: /assets/external/6582286d07007738c195b91f_image14.jpeg
     alt: null
 f_main-product-image:
-  url: >-
-    https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/658d9a228d384d4169ab7234_1683981558_12_2846.jpg
+  url: /assets/external/658d9a228d384d4169ab7234_1683981558_12_2846.jpg
   alt: null
 slug: computer-desk
 f_category-2: cms/categories/office-supplies.md

@@ -9,21 +9,16 @@ f_description: |-
   Amet distinctio eius sint 
 slug: printing-machine
 f_main-product-image:
-  url: >-
-    https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/658d96d76dd46835be0bf300_laser-printers.jpg
+  url: /assets/external/658d96d76dd46835be0bf300_laser-printers.jpg
   alt: null
 f_product-images:
-  - url: >-
-      https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/6582286d07007738c195b901_image18.jpeg
+  - url: /assets/external/6582286d07007738c195b901_image18.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/6582286d07007738c195b904_image15.jpeg
+  - url: /assets/external/6582286d07007738c195b904_image15.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/6582286d07007738c195b932_image6.jpeg
+  - url: /assets/external/6582286d07007738c195b932_image6.jpeg
     alt: null
-  - url: >-
-      https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/6582286d07007738c195b936_image13.jpeg
+  - url: /assets/external/6582286d07007738c195b936_image13.jpeg
     alt: null
 f_category-2: cms/categories/electronics.md
 updated-on: '2023-12-28T15:42:51.985Z'

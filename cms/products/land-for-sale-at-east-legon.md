@@ -10,12 +10,10 @@ f_description: |-
   Soluta nesciunt eaque.
   Sint et delectus occaecati officiis v
 f_product-images:
-  - url: >-
-      https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/6582286d07007738c195b8fb_image12.jpeg
+  - url: /assets/external/6582286d07007738c195b8fb_image12.jpeg
     alt: null
 f_main-product-image:
-  url: >-
-    https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/658d97a67b58e8edf2c22e1c_land-for-sale-in-accra3.jpg
+  url: /assets/external/658d97a67b58e8edf2c22e1c_land-for-sale-in-accra3.jpg
   alt: null
 slug: land-for-sale-at-east-legon
 f_category-2: cms/categories/real-estate.md

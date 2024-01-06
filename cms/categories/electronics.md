@@ -4,7 +4,7 @@ title: Electronics
 slug: electronics
 f_category-image:
   url: >-
-    https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/6581dedafcc56eeb1c34644d_photo-1526406915894-7bcd65f60845.png
+    /assets/external/6581dedafcc56eeb1c34644d_photo-1526406915894-7bcd65f60845.png
   alt: null
 updated-on: '2023-12-19T18:20:12.770Z'
 created-on: '2023-12-19T14:20:07.213Z'

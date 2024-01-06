@@ -10,7 +10,7 @@ created-on: '2023-12-18T15:00:52.205Z'
 published-on: '2023-12-18T17:41:20.787Z'
 f_category-image:
   url: >-
-    https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/65807a88450b5663c42fc5c2_close-up-of-clothes-hanging-in-row-739240657-5a78b11f8e1b6e003715c0ec.jpg
+    /assets/external/65807a88450b5663c42fc5c2_close-up-of-clothes-hanging-in-row-739240657-5a78b11f8e1b6e003715c0ec.jpg
   alt: null
 layout: '[categories].html'
 tags: categories

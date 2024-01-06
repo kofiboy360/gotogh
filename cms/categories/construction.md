@@ -5,7 +5,7 @@ f_short-description: >-
 title: Construction
 f_category-image:
   url: >-
-    https://uploads-ssl.webflow.com/657f3efa1f17d5781e66dbe9/6581dca52aaa773978d199dd_Construction-Materials-Are-Used-for-Buildings.jpg
+    /assets/external/6581dca52aaa773978d199dd_construction-materials-are-used-for-buildings.jpg
   alt: null
 slug: construction
 updated-on: '2023-12-19T18:10:51.644Z'
