@@ -797,13 +797,13 @@ collections:
             label: Text
             name: 7bec143e
             widget: string
-          - hint: 'Original text: info@gotgh.com, key: 32a3416e'
+          - hint: 'Original text: info@gotogh.com, key: -35a50317'
             label: Text
-            name: 32a3416e
+            name: '-35a50317'
             widget: string
-          - hint: 'Original text: eopare@gotgh.com, key: -3cdf2fb2'
+          - hint: 'Original text: eopare@gotogh.com, key: 498f4a09'
             label: Text
-            name: '-3cdf2fb2'
+            name: 498f4a09
             widget: string
           - hint: 'Original text: Phone:, key: -718ea354'
             label: Text
@@ -947,14 +947,6 @@ collections:
             label: Text
             name: '-7567b319'
             widget: string
-          - hint: 'Original text: info@gotogh.com, key: -35a50317'
-            label: Text
-            name: '-35a50317'
-            widget: string
-          - hint: 'Original text: eopare@gotogh.com, key: 498f4a09'
-            label: Text
-            name: 498f4a09
-            widget: string
           - hint: 'Original text: Call us, key: -7c14e080'
             label: Text
             name: '-7c14e080'
@@ -968,10 +960,10 @@ collections:
             name: 624d95b3
             widget: string
           - hint: >-
-              Original text: Terrain Equipment Ghana limited Digital Address
-              GM-247-4092 Supreme Avenue., key: -6c8abbd7
+              Original text: GoToGH.com Digital Address GM-247-4092 Supreme
+              Avenue., key: 3397ff90
             label: Text
-            name: '-6c8abbd7'
+            name: 3397ff90
             widget: string
           - hint: >-
               Original text:  Near Assemblies of God church, Kweiman, Accra
@@ -1225,6 +1217,10 @@ collections:
           - hint: 'Original text: Office, key: -7363d524'
             label: Text
             name: '-7363d524'
+            widget: string
+          - hint: "Original text: GoToGH.com. \_Digital Address GM-247-4092 Supreme Avenue., key: -5be827fe"
+            label: Text
+            name: '-5be827fe'
             widget: string
           - hint: 'Original text: Contact Grit, key: 526ab396'
             label: Text
