@@ -23,7 +23,8 @@
   <link href="{{ settings.site.favicon | default: "/assets/images/favicon.png" }}" rel="shortcut icon" type="image/x-icon">
   <link href="{{ settings.site.apple_touch_icon | default: "/assets/images/webclip.png" }}" rel="apple-touch-icon"><!--  Sygnal Attributes 5 | Format  -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sygnaltech/webflow-util@5.3.11/dist/css/webflow-format.css">
-  <script defer="" src="https://cdn.jsdelivr.net/gh/sygnaltech/webflow-util@5.3.11/dist/nocode/webflow-format.js"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/gh/sygnaltech/webflow-util@5.3.11/dist/nocode/webflow-format.js"></script><!--  [Attributes by Finsweet] Form Submit Actions  -->
+  <script defer="" src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-formsubmit@1/formsubmit.js"></script>
 {{ settings.site.header_additional_content }}{%- include "partials/_site-css-variables" -%}{%- include "partials/_snipcart" -%}<style>.w-video.w-embed {
             aspect-ratio: 16 / 9;
         }</style><style>picture { border: 0;
@@ -85,7 +86,7 @@
             </div>
           </div>
           <div data-w-id="0a7e78a2-e106-85d0-09f4-814346460ab9" style="opacity:0" class="uui-contact01_component w-form">
-            <form method="post" fs-formsubmit-element="form" name="wf-form-Contact-01-form" data-name="contact_01" id="wf-form-Contact-01-form" fs-formsubmit-enhance="true" fs-formsubmit-reset="true" class="uui-contact01_form" data-wf-page-id="657f3efa1f17d5781e66dbde" data-wf-element-id="0a7e78a2-e106-85d0-09f4-814346460aba" data-netlify="true" data-ajax="true" data-content-type="application/x-www-form-urlencoded">
+            <form method="post" class="uui-contact01_form" fs-formsubmit-element="form" name="wf-form-Contact-01-form" data-name="contact_01" action="https://hook.us1.make.com/z9axz86yd4bb8555ecc0c6niwiphvmss" id="wf-form-Contact-01-form" fs-formsubmit-enhance="true" fs-formsubmit-reset="true" data-wf-page-id="657f3efa1f17d5781e66dbde" data-wf-element-id="0a7e78a2-e106-85d0-09f4-814346460aba" data-ajax="true">
               <div class="uui-form-field-wrapper"><label for="Contact-01-name" class="uui-field-label">{{ texts.24eeab }}</label><input class="uui-form_input-2 w-input" maxlength="256" name="Contact-01-name" data-name="Contact 01 name" placeholder="Your name" type="text" id="Contact-01-name" required=""></div>
               <div class="uui-form-field-wrapper"><label for="Contact-01-email" class="uui-field-label">{{ texts.3ff5b7c }}</label><input class="uui-form_input-2 w-input" maxlength="256" name="Contact-01-email" data-name="Contact 01 email" placeholder="Eg. larry@gmail..com" type="email" id="Contact-01-email" required=""></div>
               <div class="uui-form-field-wrapper"><label for="Contact-01-message" class="uui-field-label">{{ texts.-63dc6819 }}</label><textarea id="Contact-01-message" name="Contact-01-message" maxlength="5000" data-name="Contact 01 message" placeholder="Type your message..." required="" class="uui-form_input-2 text-area w-input"></textarea></div>

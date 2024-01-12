@@ -60,7 +60,7 @@
       <div class="w-layout-hflex productdetailsmainrow">
         <div data-w-id="0a9d5b85-0a6b-386b-0407-62d59df1c37e" style="opacity:0" class="w-layout-vflex imagesholdercolumn">
           <a href="{{ links.23 }}" class="mainimage w-inline-block w-lightbox">{%- image f_main-product-image.url, f_main-product-image.alt, '[]', 'loading="lazy" class="image"' -%}
-            <script type="application/json" class="w-json">{"items":[],"group":"Product Images"}</script>
+            <script type="application/json" class="w-json">{"items":[{"type":"image","url":"{{ f_main-product-image.url }}","caption":""}],"group":"Product Images"}</script>
           </a>
           <div class="w-layout-hflex moreimagesrow">
             {%- assign setItems = f_product-images -%}<div class="w-dyn-list">
