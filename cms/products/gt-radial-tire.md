@@ -1,5 +1,5 @@
 ---
-title: "GT Radial Tire "
+title: GT Radial Tire 315/80R22.5
 created-on: 2024-01-09T13:53:47.402Z
 updated-on: 2024-01-09T13:53:47.431Z
 published-on: 2024-01-09T13:53:47.459Z
