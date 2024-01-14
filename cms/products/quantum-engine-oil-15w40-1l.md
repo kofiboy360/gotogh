@@ -20,13 +20,12 @@ f_description: >
 
 
   Quantum 5W-40 diesel engine oil is a high performance oil that provides proven protection of diesel engines operating in on and off-highway severe service applications. it is recommended for use in a wide rang of heavy duty applications and operating environment such as mining, trucking, construction, quarrying and agricultural industries.
-f_price: 500
+f_price: 100
 f_category-2: cms/categories/automotive.md
 f_product-images:
-  - url: /assets/images/engine-oil-diesel-trucks-quantum-15w40-terrain-1-equipment-ghana.webp
-  - url: /assets/images/engine-oil-diesel-trucks-quantum-15w40-terrain-equipment-ghana.webp
+  - url: /assets/images/engine-quantum1-15w40-oil-1litre.jpg
 f_main-product-image:
-  url: /assets/images/engine-oil-diesel-trucks-quantum-15w40-terrain-equipment-ghana.webp
+  url: /assets/images/engine-oil-quantum-15w40-2-oil-1litre.jpg
 tags: products
 layout: "[products].html"
 date: 2024-01-09T14:53:34.333Z
