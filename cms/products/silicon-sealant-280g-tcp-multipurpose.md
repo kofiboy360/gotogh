@@ -15,9 +15,9 @@ f_description: >-
 f_price: 23
 f_category-2: cms/categories/construction.md
 f_product-images:
-  - url: /assets/images/tcp-multipurpose-tcp-silicone-sealant-is-used-to-insulating-and-filling-of-larger-seams-joints-cracks-such-as-gaps-between-walls-windows-and-doors.1.jpg
+  - url: /assets/images/tcp-1-multipurpose-tcp-silicone-sealant-is-3-used-to-insulating-and-filling-of-larger-seams-joints-cracks-such-as-gaps-between-walls-windows-and-doors.1.jfif
 f_main-product-image:
-  url: /assets/images/tcp-multipurpose-tcp-silicone-sealant-is-used-to-insulating-and-filling-of-larger-seams-joints-cracks-such-as-gaps-between-walls-windows-and-doors.1.jpg
+  url: /assets/images/tcp-1-multipurpose-tcp-silicone-sealant-is-used-to-insulating-and-filling-of-larger-seams-joints-cracks-such-as-gaps-between-walls-windows-and-doors.1.jfif
 tags: products
 layout: "[products].html"
 date: 2024-01-08T21:06:27.197Z
