@@ -10,7 +10,7 @@ f_product-images:
   - url: /assets/images/straight-cut-jeans-blue-black-stretch-straight-men-new-slim-street-ghana-accra-dress-gotogh.comwear-blue-gray.jpg
   - url: /assets/images/straight-men-new-slim-street-5-ghana-accra-dress-gotogh.comwear-blue-gray.jpg
 f_main-product-image:
-  url: /assets/images/straight-men-new-slim-street-1-ghana-accra-dress-gotogh.comwear-blue-gray.jfif
+  url: /assets/images/straight-cut-jeans-blue-black-stretch-straight-men-new-slim-street-ghana-accra-dress-gotogh.comwear-blue-gray.jpg
 tags: products
 layout: "[products].html"
 date: 2024-01-17T19:22:19.039Z
