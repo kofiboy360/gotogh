@@ -19,7 +19,7 @@ f_description: >-
 
 
   The double extruded centre tube gives them a high load capacity – the crutches can support users weighing up to 160kg (25 stone).
-f_price: 250
+f_price: 300
 f_category-2: cms/categories/health-products.md
 f_product-images:
   - url: /assets/images/ampit-clutches-medical-walking-aid-equipment-ghana-2-accra-gotogh.com.webp
