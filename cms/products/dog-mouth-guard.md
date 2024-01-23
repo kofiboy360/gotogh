@@ -4,7 +4,7 @@ created-on: 2024-01-09T07:17:49.901Z
 updated-on: 2024-01-09T07:17:49.929Z
 published-on: 2024-01-09T07:17:49.950Z
 f_description: Strong and adjustable leather different sizes available.
-f_price: 100
+f_price: 60
 f_category-2: cms/categories/pets.md
 f_product-images:
   - url: /assets/images/dog-mouth-guard-1gotogh.com.jpg
