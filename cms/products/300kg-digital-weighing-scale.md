@@ -14,9 +14,9 @@ f_description: |
 f_price: 650
 f_category-2: cms/categories/industrial.md
 f_product-images:
-  - url: /assets/images/gotogh.com-ghana-camry-digital-meter-camry-price-computing-stainless-steel-platform-digital-electronic-scale-150kg-300kg-buy-tools-hardware-building-materials-30787473506438_1024x.webp
+  - url: /assets/images/gotogh.com-ghana-1camry-digital-meter-camry-price-computing-stainless-steel-platform-digital-electronic-scale-150kg-300kg-buy-tools-hardware-building-materials-30787473506438_1024x.jpg
 f_main-product-image:
-  url: /assets/images/gotogh.com-ghana-1camry-digital-meter-camry-price-computing-stainless-steel-platform-digital-electronic-scale-150kg-300kg-buy-tools-hardware-building-materials-30787473506438_1024x.jpg
+  url: /assets/images/gotogh.com-ghana-camry-digital-meter-camry-price-computing-stainless-steel-platform-digital-electronic-scale-150kg-300kg-buy-tools-hardware-building-materials-30787473506438_1024x.webp
 tags: products
 layout: "[products].html"
 date: 2024-01-27T13:35:30.898Z
