@@ -8,7 +8,7 @@ f_description: Provision of veterinary drugs,  Veterinary and Animal Husbandry
   rabbits, pigs and dogs. Home and farm visit services available. Nation wide
   service also available.
 f_price: 103
-f_category-2: cms/categories/services.md
+f_category-2: cms/categories/services-1.md
 f_main-product-image:
   url: /assets/images/fb_img_16535964314945571.jpg
 tags: products
