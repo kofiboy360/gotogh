@@ -9,9 +9,9 @@ f_description: |-
 f_price: 120
 f_category-2: cms/categories/agriculture.md
 f_product-images:
-  - url: /assets/images/topetomech100g-chsultana5g-1-tomato-seed-greenbeanspghana-accra-farm-garden-gotogh.com-hacontender100g-1.jpg
+  - url: /assets/images/topetomecg-1-tomato-seed-greenbeanspghana-accra-farm-garden-gotogh.com-.jpg
 f_main-product-image:
-  url: /assets/images/green-house-gotogh.com-ghana-accra-farm-tomatos-in-seeds-lan-chang-farm-thailand-01.webp
+  url: /assets/images/green-house-gotogh.com-ghana-accra-farm-tomatos-in-seeds-.webp
 tags: products
 layout: "[products].html"
 date: 2024-01-30T11:10:49.791Z
