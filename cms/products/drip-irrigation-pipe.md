@@ -12,8 +12,9 @@ f_price: 2000
 f_category-2: cms/categories/agriculture.md
 f_product-images:
   - url: /assets/images/drip-irrigation-tape-rain-tape54514796-micro-spray-tape-greenhouse-agric-farming-accra-ghana-gotogh.com-930.jpg
+  - url: /assets/images/drip-irrigation-system-500x500.webp
 f_main-product-image:
-  url: /assets/images/drip-irrigation-system-500x500.webp
+  url: /assets/images/inline-drip-irrigation-system-micro-spray-tape-rain-tape54514796-micro-spray-tape-greenhouse-agric-farming-accra-ghana-gotogh.com-930500x500.webp
 tags: products
 layout: "[products].html"
 date: 2024-01-30T11:30:59.147Z
