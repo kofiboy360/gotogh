@@ -9,7 +9,7 @@ f_description: |-
   Discharge head: 32m
   flowrate : 1000L/min
   water cooled engine. 8HP
-f_price: 1000
+f_price: 10000
 f_category-2: cms/categories/agriculture.md
 f_product-images:
   - url: /assets/images/georex-diesel-gotogh.com-water-pump-4-irrigation-farming-inches-8hp-.jpg
