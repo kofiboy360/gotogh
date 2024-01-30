@@ -9,7 +9,7 @@ f_description: We control Mosquito, snakes, bedbugs, cockroaches, scorpions,
   industrial services. Contact us for inspection and free estimate." we work for
   companies, schools, hospitals, churches, restaurants and farms.
 f_price: 600
-f_category-2: cms/categories/services.md
+f_category-2: cms/categories/services-1.md
 f_main-product-image:
   url: /assets/images/pest-control-services-hotels-resturants-schools-hospitals-cocroaches-termites-gotogh.com-ants-rats-mites-accra-ghana-dodowa-nsawam-oyarifa-abokobi-adenta-madina-mosquitos-weeds-snakes-lizards-wall-gekos-ants..jpg
 tags: products
