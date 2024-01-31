@@ -11,7 +11,7 @@ f_category-2: cms/categories/services.md
 f_product-images:
   - url: /assets/images/10-kva-perkins-diesel-generator-500x500.webp
 f_main-product-image:
-  url: /assets/images/10-kva-perkins-diesel-generator-500x500.webp
+  url: /assets/images/perkins-12kva-machinery-gotogh.com-ghana-accra-hiring-renting-.jpg
 tags: products
 layout: "[products].html"
 date: 2024-01-31T00:07:22.597Z
