@@ -5,7 +5,7 @@ updated-on: 2024-01-11T13:30:54.926Z
 published-on: 2024-01-11T13:30:54.951Z
 f_short-description: Equipment and machinery for hiring
 f_category-image:
-  url: /assets/images/img_0303.jpeg
+  url: /assets/images/cat-de400eo-400kva-machinery-gotogh.com-ghana-accra-hiring-renting-event-organizers-companies-churches.png
 tags: categories
 layout: "[categories].html"
 date: 2024-01-11T13:30:54.974Z
