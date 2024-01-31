@@ -1,5 +1,5 @@
 ---
-title: Generator Set for Hiring
+title: Generator Set 400 KVA
 created-on: 2024-01-31T00:03:31.104Z
 updated-on: 2024-01-31T00:03:31.132Z
 published-on: 2024-01-31T00:03:31.150Z
