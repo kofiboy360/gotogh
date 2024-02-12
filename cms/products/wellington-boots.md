@@ -8,14 +8,26 @@ f_description: high quality, strong durable boots for farms and general use.
 f_price: 100
 f_category-2: cms/categories/agriculture.md
 f_product-images:
-  - url: /assets/images/wellington-boots-gotogh.com.jpg
+  - url: /assets/images/wellinton-boots-agriculture-construction-farminf-garden-gotogh.com-accra-ghana-.jpg
 f_main-product-image:
-  url: /assets/images/farm-wellington-boots.jpg
+  url: /assets/images/wellinton-boots-agriculture-construction-farminf-garden-gotogh.com-accra-ghana.jpg
 tags: products
 layout: "[products].html"
 date: 2024-01-08T23:13:01.237Z
 seo:
   noindex: false
-  twitter:title: summary
-  twitter:card: summary
+  twitter:title: wellington-boots-agriculture-construction
+    farminf-garden-gotogh.com-Accra-Ghana
+  twitter:card: wellington-boots-agriculture-construction
+    farminf-garden-gotogh.com-Accra-Ghana
+  title: wellington-boots-agriculture-construction
+    farminf-garden-gotogh.com-Accra-Ghana
+  description: wellington-boots-agriculture-construction
+    farminf-garden-gotogh.com-Accra-Ghana
+  og:title: wellinton-boots-agriculture-construction
+    farminf-garden-gotogh.com-accra-ghana
+  additional_tags: wellington-boots-agriculture-construction
+    farminf-garden-gotogh.com-Accra-Ghana
+  twitter:site: wellington-boots-agriculture-construction
+    farminf-garden-gotogh.com-Accra-Ghana
 ---
