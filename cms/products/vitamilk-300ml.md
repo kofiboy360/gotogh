@@ -1,10 +1,10 @@
 ---
-title: Vitamilk 300ml
+title: Vitamilk Soya milk 300ml ( 24 in a box)
 created-on: 2024-01-14T07:44:10.546Z
 updated-on: 2024-01-14T07:44:10.563Z
 published-on: 2024-01-14T07:44:10.575Z
 f_description: "300ml sold in packs of 24 bottles. "
-f_price: 300
+f_price: 250
 f_category-2: cms/categories/household.md
 f_product-images:
   - url: /assets/images/vita-milk-soya-milk-square_jpg-gotogh.com.jpg
@@ -18,4 +18,9 @@ seo:
   noindex: false
   twitter:title: summary
   twitter:card: summary
+  title: Vitamilk Soya milk
+  description: Vitamilk Soya milk
+  og:title: Vitamilk Soya milk
+  twitter:site: Vitamilk Soya milk
+  additional_tags: Vitamilk Soya milk
 ---
