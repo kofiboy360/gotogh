@@ -35,7 +35,5 @@ seo:
   twitter:creator: Expiry date and batch printing machine, Crown cocking machine,
     Generator set, Forklift, Pallet jack truck, Life jacket, Overall, pulleys,
     electric motors, Caustic soda and more.
-  additional_tags: Expiry date and batch printing machine, Crown cocking machine,
-    Generator set, Forklift, Pallet jack truck, Life jacket, Overall, pulleys,
-    electric motors, Caustic soda and more.
+  additional_tags: ""
 ---
