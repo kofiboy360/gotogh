@@ -27,6 +27,5 @@ seo:
     glucose monitor, Armpit clutches, syringes, wheel chair, "
   twitter:creator: "Blood pressure monitor, Autoclave, Electronic thermometer,
     Blood glucose monitor, Armpit clutches, syringes, wheel chair, "
-  additional_tags: "Blood pressure monitor, Autoclave, Electronic thermometer,
-    Blood glucose monitor, Armpit clutches, syringes, wheel chair, ambulance "
+  additional_tags: ""
 ---
