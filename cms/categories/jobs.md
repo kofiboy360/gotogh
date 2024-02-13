@@ -14,7 +14,7 @@ date: 2024-02-02T19:26:22.671Z
 seo:
   twitter:creator: Jobs, vacancies, employment.
   twitter:site: Jobs, vacancies, employment.
-  additional_tags: Jobs, vacancies, employment.
+  additional_tags: ""
   twitter:title: Jobs, vacancies, employment.
   noindex: false
   og:title: Jobs, vacancies, employment.
