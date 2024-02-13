@@ -27,6 +27,5 @@ seo:
     visitor chair, computer desk. "
   twitter:creator: "GSM wireless telephone, files and book shelves , swivel chair,
     visitor chair, computer desk. "
-  additional_tags: "GSM wireless telephone, files and book shelves , swivel chair,
-    visitor chair, computer desk. "
+  additional_tags: ""
 ---
