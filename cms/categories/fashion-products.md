@@ -21,4 +21,23 @@ seo:
     suits, ladies shoes, panties, office dresses, night gown,
     leggings,  dresses, tommy wrap waist trainer, men's leather bag, ladies
     bags.
+  twitter:title: UNISEX Fashion Products  Shoes, short & long sleeves, trousers,
+    suits, ladies shoes, panties, office dresses, night gown,
+    leggings,  dresses, tommy wrap waist trainer, men's leather bag, ladies
+    bags.
+  twitter:card: UNISEX Fashion Products  Shoes, short & long sleeves, trousers,
+    suits, ladies shoes, panties, office dresses, night gown,
+    leggings,  dresses, tommy wrap waist trainer, men's leather bag, ladies
+    bags.
+  twitter:site: UNISEX Fashion Products  Shoes, short & long sleeves, trousers,
+    suits, ladies shoes, panties, office dresses, night gown,
+    leggings,  dresses, tommy wrap waist trainer, men's leather bag, ladies
+    bags.
+  twitter:creator: UNISEX Fashion Products  Shoes, short & long sleeves, trousers,
+    suits, ladies shoes, panties, office dresses, night gown,
+    leggings,  dresses, tommy wrap waist trainer, men's leather bag, ladies
+    bags.
+  additional_tags: >-
+    UNISEX Fashion Products
+     Shoes, short & long sleeves, trousers, suits, ladies shoes, panties, office dresses, night gown, leggings,  dresses, tommy wrap waist trainer, men's leather bag, ladies bags.
 ---
