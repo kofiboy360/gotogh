@@ -15,8 +15,7 @@ seo:
     bulldozer, backhoe, roller, excavator, wheel loader, forklift
   twitter:site: Equipment and machinery for hiring, trucks, generator rentals,
     bulldozer, backhoe, roller, excavator, wheel loader, forklift
-  additional_tags: Equipment and machinery for hiring, trucks, generator rentals,
-    bulldozer, backhoe, roller, excavator, wheel loader, forklift. Accra Ghana.
+  additional_tags: ""
   twitter:title: Equipment and machinery for hiring, trucks, generator rentals,
     bulldozer, backhoe, roller, excavator, wheel loader, forklift
   noindex: false
