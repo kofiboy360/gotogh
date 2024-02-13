@@ -35,7 +35,5 @@ seo:
   twitter:creator: Bed, sofa, dining table, vita milk, cake, wheat flour, honey,
     rice cooker, soya source, Potatoes, shoe rag, drying line, kitchen kettle,
     kitchen machines, blenders, juicers, fufu machine etc.
-  additional_tags: Bed, sofa, dining table, vita milk, cake, wheat flour, honey,
-    rice cooker, soya source, Potatoes, shoe rag, drying line, kitchen kettle,
-    kitchen machines, blenders, juicers, fufu machine, etc.
+  additional_tags: ""
 ---
