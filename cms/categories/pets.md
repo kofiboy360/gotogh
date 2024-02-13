@@ -14,8 +14,8 @@ date: 2024-02-13T00:32:54.441Z
 seo:
   title: Dog for sale, dog kennel for sale, dog food, dog chain, Dewormer, dog
     shampoo.
-  description: Dog for sale, dog kennel for sale, dog food, dog chain, Dewormer,
-    dog shampoo.
+  description: "Dog for sale, dog kennel for sale, dog food, dog chain, Dewormer,
+    dog shampoo. veterinary, cat, "
   og:title: Dog for sale, dog kennel for sale, dog food, dog chain, Dewormer, dog
     shampoo.
   twitter:title: Dog for sale, dog kennel for sale, dog food, dog chain, Dewormer,
@@ -24,6 +24,5 @@ seo:
     dog shampoo.
   twitter:creator: Dog for sale, dog kennel for sale, dog food, dog chain,
     Dewormer, dog shampoo.
-  additional_tags: "Dog for sale, dog kennel for sale, dog food, dog chain,
-    Dewormer, dog shampoo. veterinary, cat, "
+  additional_tags: ""
 ---
