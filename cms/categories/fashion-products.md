@@ -37,7 +37,5 @@ seo:
     suits, ladies shoes, panties, office dresses, night gown,
     leggings,  dresses, tommy wrap waist trainer, men's leather bag, ladies
     bags.
-  additional_tags: >-
-    UNISEX Fashion Products
-     Shoes, short & long sleeves, trousers, suits, ladies shoes, panties, office dresses, night gown, leggings,  dresses, tommy wrap waist trainer, men's leather bag, ladies bags.
+  additional_tags: ""
 ---
