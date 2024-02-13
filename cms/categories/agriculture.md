@@ -51,9 +51,27 @@ seo:
     cassava planter, drying equipment, cassava harvester, potato harvester,
     grain cleaner, vibrating screens, PTO shafts, manure spreader, fertilizer
     spreader, lime spreader, Massey Ferguson tractor parts.
-  additional_tags: Tractors, agricultural trailer, harvesters, boom sprayers,
-    irrigation kits, irrigation pipes, irrigation pumps, rice trans planter,
-    cassava planter, drying equipment, cassava harvester, potato harvester,
-    grain cleaner, vibrating screens, PTO shafts, manure spreader, fertilizer
-    spreader, lime spreader, Massey Ferguson tractor parts.
+  additional_tags: >
+    Tractors, agricultural trailer, harvesters, boom sprayers, irrigation kits,
+    irrigation pipes, irrigation pumps, rice trans planter, cassava planter,
+    drying equipment, cassava harvester, potato harvester, grain cleaner,
+    vibrating screens, PTO shafts, manure spreader, fertilizer spreader, lime
+    spreader, Massey Ferguson tractor parts, ministry of agriculture, organic
+    farming, farmers, sprinkler, growing media, medium, planting seeds,
+    fertilizer, seed cleaner, grain thresher, grain dryer, weedicide,
+    glyphosate, cattle , sheep, goats, rabbit, grasscutter, Ghana, Accra,
+    Madina, Adenta, Abokobi, Oyarifa, Aburi, Ayi-Mensah, Ho, Hohoe,
+    horticulture, tillage, cultivation, crop rotation, pesticide, agronomy,
+    livestock, horticulture, Chemicals , Grain, Corn Manure Conservation
+    Vegetables Wheat Tractor Crop Production Fiber Beef Sheep Poultry Barley
+    Rice Animal Products Nutrients Aquatic Animals Nitrogen, Feed Grain Dairy
+    Products Natural Resources Cotton Animal Waste Sustainable Agriculture,
+    Domestication, Pesticide Farmer Cattle Harvest Fertilizer Weeding Acreage
+    Irrigation Livestock Orchard Cultivation Agribusiness Agricultural
+    Implements Rural  Horticulture Farming Crops Greenhous Herbicide Organic
+    Farming Plantation Plow Agronomy Vineyard Livestock Farming Paddy Fields
+
+    Silo Agricultural Economics Agroforestry Hybrid Seeds Agricultural Science Harrow Environmental
+
+    Aquaculture Pesticide-free Herbicide-resistant Genetically modified Crop-specific Green Efficient Nutrient-rich Barren Bountiful Traditional Intensive Mechanized Mixed Organic Perennial Seasonal
 ---
