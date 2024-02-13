@@ -34,7 +34,12 @@ seo:
   twitter:creator: Paint, Water and Dump proof, Silicone sealant, Polyurethane
     foam sealant, Decorative corner moulds, Ceiling panels, putty filler,
     graffiato etc
-  additional_tags: Paint, gloss, emulsion, Water and Dump proof, Silicone sealant,
-    Polyurethane foam sealant, Decorative corner moulds, Ceiling panels, putty
-    filler, graffiato etc
+  additional_tags: >-
+    Paint, gloss, emulsion, Water and Dump proof, Silicone sealant, Polyurethane
+    foam sealant, Decorative corner moulds, Ceiling panels, putty filler,
+    graffiato etc, building, constitution, contractions, contractor
+
+    builder, construction companies, Maison, remodeling, construed, construction management general contractor, building construction, construction worker, construction materials, const, construction site
+
+    contractor license, construction news, construire, construction logo building contractors, construction companies near me, tiny house builders, new construction, construction engineering, house decoration, painting, cieling, roofing, residential construction companies, roofing construction company, interior design. glass windows,
 ---
