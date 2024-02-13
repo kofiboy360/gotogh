@@ -10,7 +10,21 @@ tags: categories
 layout: "[categories].html"
 date: 2024-01-30T22:44:43.128Z
 seo:
+  twitter:creator: services, veterinary, pest control, auto electrician, car
+    spraying, body works, installation, mechanic, field service.
+  twitter:site: services, veterinary, pest control, auto electrician, car
+    spraying, body works, installation, mechanic, field service.
+  additional_tags: services, veterinary, pest control, auto electrician, car
+    spraying, body works, installation, mechanic, field service.
+  twitter:title: services, veterinary, pest control, auto electrician, car
+    spraying, body works, installation, mechanic, field service.
   noindex: false
-  twitter:title: summary
-  twitter:card: summary
+  og:title: services, veterinary, pest control, auto electrician, car spraying,
+    body works, installation, mechanic, field service.
+  twitter:card: services, veterinary, pest control, auto electrician, car
+    spraying, body works, installation, mechanic, field service.
+  title: services, veterinary, pest control, auto electrician, car spraying, body
+    works, installation, mechanic, field service.
+  description: services, veterinary, pest control, auto electrician, car spraying,
+    body works, installation, mechanic, field service.
 ---
