@@ -14,8 +14,7 @@ seo:
     spraying, body works, installation, mechanic, field service.
   twitter:site: services, veterinary, pest control, auto electrician, car
     spraying, body works, installation, mechanic, field service.
-  additional_tags: services, veterinary, pest control, auto electrician, car
-    spraying, body works, installation, mechanic, field service.
+  additional_tags: ""
   twitter:title: services, veterinary, pest control, auto electrician, car
     spraying, body works, installation, mechanic, field service.
   noindex: false
