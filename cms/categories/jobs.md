@@ -12,9 +12,13 @@ tags: categories
 layout: "[categories].html"
 date: 2024-02-02T19:26:22.671Z
 seo:
+  twitter:creator: Jobs, vacancies, employment.
+  twitter:site: Jobs, vacancies, employment.
+  additional_tags: Jobs, vacancies, employment.
+  twitter:title: Jobs, vacancies, employment.
   noindex: false
-  twitter:title: summary
-  twitter:card: summary
+  og:title: Jobs, vacancies, employment.
+  twitter:card: Jobs, vacancies, employment.
   title: Jobs, vacancies, employment.
   description: Jobs, vacancies, employment.
 ---
