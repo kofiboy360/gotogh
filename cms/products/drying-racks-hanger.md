@@ -8,6 +8,10 @@ f_description: |
   Durable, foldable and simple design. It is made of stainless steel. 
 f_price: 550
 f_category-2: cms/categories/household.md
+f_product-images:
+  - url: /assets/images/drying-racks-hanger-indoor-outdoor-www.gotogh.com-accra-ghana..jpg
+f_main-product-image:
+  url: /assets/images/drying-racks-hanger-indoor-outdoor-www.gotogh.com-accra-ghana..jpg
 tags: products
 layout: "[products].html"
 date: 2024-02-15T07:45:49.004Z
