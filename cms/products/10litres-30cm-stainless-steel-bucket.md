@@ -6,11 +6,9 @@ published-on: 2024-02-14T23:56:45.079Z
 f_description: 10-litres 30cm stainless steel bucket
 f_price: 80
 f_category-2: cms/categories/household.md
-f_product-images:
-  - url: /assets/images/10-litres-30cm-stainless-steelbucket-www.gotogh.com-accra-ghana.png
-  - url: /assets/images/10-litres-30cm-stainless-steelbucket-www.gotogh.com-accra-ghana-3.png
+f_product-images: []
 f_main-product-image:
-  url: /assets/images/10-litres-30cm-stainless-1-steelbucket-www.gotogh.com-accra-ghana.png
+  url: /assets/images/10-litres-30cm-stainless-steelbucket-www.gotogh.com-accra-ghana-3.png
 tags: products
 layout: "[products].html"
 date: 2024-02-14T23:56:45.101Z
