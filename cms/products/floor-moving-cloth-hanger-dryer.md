@@ -18,7 +18,7 @@ f_description: >
 
   storage size: ( 550*130*1100)mm
 f_price: 750
-f_category-2: cms/categories/health-products.md
+f_category-2: cms/categories/household.md
 f_product-images:
   - url: /assets/images/drying-racks-hanger-indoor-outdoor-www.gotogh.com-accra-ghana.3.png
   - url: /assets/images/drying-racks-hanger-indoor-outdoor-www.gotogh.com-accra-ghana.5.png
