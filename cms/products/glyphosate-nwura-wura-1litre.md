@@ -9,7 +9,7 @@ f_description: >-
   non-residual effects. 
 
   It has wide potential use for total weed control in agriculture including horticulture, forestry, and non-crop areas. 
-f_price: 80
+f_price: 55
 f_category-2: cms/categories/agriculture.md
 f_product-images:
   - url: /assets/images/nwura-wura-gotogh.com.jpg
