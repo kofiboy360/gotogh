@@ -4,7 +4,7 @@ created-on: 2024-04-22T14:11:35.376Z
 updated-on: 2024-04-22T14:11:35.404Z
 published-on: 2024-04-22T14:11:35.425Z
 f_description: Michelin 315/80r 22.5 rough
-f_price: 10670
+f_price: 11050
 f_category-2: cms/categories/automotive.md
 f_product-images:
   - url: /assets/images/315-80r22-5-20pr-l-michelin-yokohama_tyres_terrain_equipment_ghana_limited_1336x336.png
