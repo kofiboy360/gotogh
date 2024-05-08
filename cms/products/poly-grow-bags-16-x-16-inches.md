@@ -5,7 +5,7 @@ updated-on: 2024-01-30T12:27:25.170Z
 published-on: 2024-01-30T12:27:25.184Z
 f_description: |
   PE grow bags for green house crop production.
-  size: 16 X 16 inches 
+  size: 11 X 14 inches 
   100 pcs in a pack.
 f_price: 100
 f_category-2: cms/categories/agriculture.md
