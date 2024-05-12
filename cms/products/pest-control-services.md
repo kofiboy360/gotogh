@@ -17,6 +17,46 @@ layout: "[products].html"
 date: 2024-01-11T23:45:51.891Z
 seo:
   noindex: false
-  twitter:title: summary
-  twitter:card: summary
+  twitter:title: We control Mosquito, snakes, bedbugs, cockroaches, scorpions,
+    lizards, wall gecko, rats, ants, spiders, termites, weevils, moths, Beatles,
+    bacteria, viruses, fungi and weeds. We provide residential, commercial and
+    industrial services. Contact us for inspection and free estimate." we work
+    for companies, schools, hospitals, churches, restaurants and
+    farms.-Accra-Ghana-Aburi-Adenta-Madina-east-legon-Abokobi-Dodowa-Koforidua-Tema-kasoa-Nsawam-hatso
+  twitter:card: We control Mosquito, snakes, bedbugs, cockroaches, scorpions,
+    lizards, wall gecko, rats, ants, spiders, termites, weevils, moths, Beatles,
+    bacteria, viruses, fungi and weeds. We provide residential, commercial and
+    industrial services. Contact us for inspection and free estimate." we work
+    for companies, schools, hospitals, churches, restaurants and
+    farms.-Accra-Ghana-Aburi-Adenta-Madina-east-legon-Abokobi-Dodowa-Koforidua-Tema-kasoa-Nsawam-hatso
+  title: We control Mosquito, snakes, bedbugs, cockroaches, scorpions, lizards,
+    wall gecko, rats, ants, spiders, termites, weevils, moths, Beatles,
+    bacteria, viruses, fungi and weeds. We provide residential, commercial and
+    industrial services. Contact us for inspection and free estimate." we work
+    for companies, schools, hospitals, churches, restaurants and
+    farms.-Accra-Ghana-Aburi-Adenta-Madina-east-legon-Abokobi-Dodowa-Koforidua-Tema-kasoa-Nsawam-hatso
+  description: We control Mosquito, snakes, bedbugs, cockroaches, scorpions,
+    lizards, wall gecko, rats, ants, spiders, termites, weevils, moths, Beatles,
+    bacteria, viruses, fungi and weeds. We provide residential, commercial and
+    industrial services. Contact us for inspection and free estimate." we work
+    for companies, schools, hospitals, churches, restaurants and
+    farms.-Accra-Ghana-Aburi-Adenta-Madina-east-legon-Abokobi-Dodowa-Koforidua-Tema-kasoa-Nsawam-hatso
+  og:title: We control Mosquito, snakes, bedbugs, cockroaches, scorpions, lizards,
+    wall gecko, rats, ants, spiders, termites, weevils, moths, Beatles,
+    bacteria, viruses, fungi and weeds. We provide residential, commercial and
+    industrial services. Contact us for inspection and free estimate." we work
+    for companies, schools, hospitals, churches, restaurants and
+    farms.-Accra-Ghana-Aburi-Adenta-Madina-east-legon-Abokobi-Dodowa-Koforidua-Tema-kasoa-Nsawam-hatso
+  twitter:site: We control Mosquito, snakes, bedbugs, cockroaches, scorpions,
+    lizards, wall gecko, rats, ants, spiders, termites, weevils, moths, Beatles,
+    bacteria, viruses, fungi and weeds. We provide residential, commercial and
+    industrial services. Contact us for inspection and free estimate." we work
+    for companies, schools, hospitals, churches, restaurants and
+    farms.-Accra-Ghana-Aburi-Adenta-Madina-east-legon-Abokobi-Dodowa-Koforidua-Tema-kasoa-Nsawam-hatso
+  twitter:creator: We control Mosquito, snakes, bedbugs, cockroaches, scorpions,
+    lizards, wall gecko, rats, ants, spiders, termites, weevils, moths, Beatles,
+    bacteria, viruses, fungi and weeds. We provide residential, commercial and
+    industrial services. Contact us for inspection and free estimate." we work
+    for companies, schools, hospitals, churches, restaurants and
+    farms.-Accra-Ghana-Aburi-Adenta-Madina-east-legon-Abokobi-Dodowa-Koforidua-Tema-kasoa-Nsawam-hatso
 ---
