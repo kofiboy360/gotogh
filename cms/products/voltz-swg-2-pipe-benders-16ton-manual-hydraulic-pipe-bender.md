@@ -15,7 +15,7 @@ f_description: >
   Mold configuration: [DIES]-- 22-60mm
 
   VOLTZ SWG-2 Pipe Benders 16ton Manual Hydraulic Pipe Bender up to 60mm Manual Pipe Bending Machine Mechanical Pipe Bender Tube Bender Tube Bending Machine (External diameter?22-60mm)
-f_price: 5000
+f_price: 4500
 f_category-2: cms/categories/industrial.md
 f_product-images:
   - url: /assets/images/1-hydraulic-pipe-bending-machine-one-piece-galvanized-pipe-iron-pipe-steel-pipe-terrain_equipment_ghana_limited_1bending-tool-manual-pipe.jpg
