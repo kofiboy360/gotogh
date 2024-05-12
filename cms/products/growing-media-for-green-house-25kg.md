@@ -1,5 +1,5 @@
 ---
-title: Growing Media For Green House 25kg
+title: Growing Media For Green House ( 25kg bag )
 created-on: 2024-02-02T09:45:41.600Z
 updated-on: 2024-02-02T09:45:41.616Z
 published-on: 2024-02-02T09:45:41.630Z
@@ -28,13 +28,13 @@ f_description: >+
   – Greenhouses
 
 
-f_price: 50
+f_price: 30
 f_category-2: cms/categories/agriculture.md
 f_product-images:
   - url: /assets/images/growing-media-medium-green-house-plant-3-nursery-farm-25kg.jpg
   - url: /assets/images/growing-media-medium-green-house-plant-5-nursery-farm-25kg.webp
 f_main-product-image:
-  url: /assets/images/growing-media-medium-green-house-1-plant-nursery-farm-25kg.jpg
+  url: /assets/images/growing-media-agric-greenhouse-ghana-accra.png
 tags: products
 layout: "[products].html"
 date: 2024-02-02T09:45:41.645Z
