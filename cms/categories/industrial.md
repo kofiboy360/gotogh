@@ -7,7 +7,7 @@ f_short-description: Expiry date and batch printing machine, Crown cocking
   machine, Generator set, Forklift, Pallet jack truck, Life jacket, Overall,
   pulleys, electric motors, Caustic soda and more.
 f_category-image:
-  url: /assets/external/6581ab85ce3de81384ca3f14_original-equipment-manfacturing-vyrobca-zariadeni-a-komponentov-1024x683.jpg
+  url: /assets/images/600mmcv-1-roof-ventilator-extractor-fan-accra-ghana-turbo_turbine.jpg
   alt: null
 layout: "[categories].html"
 slug: industrial
