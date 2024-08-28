@@ -6,7 +6,7 @@ published-on: 2024-01-07T16:47:15.650Z
 f_description: |-
   Brand new. 
   call for price. 
-f_price: 700
+f_price: 1300
 f_category-2: cms/categories/automotive.md
 f_main-product-image:
   url: /assets/images/terr-equipment-ghana-6-gotogh-kia-picanto-radiator-all-korean-cars.jpg
