@@ -7,7 +7,7 @@ f_short-description: Paint, Water and Dump proof, Silicone sealant, Polyurethane
   foam sealant, Decorative corner moulds, Ceiling panels, putty filler,
   graffiato etc.
 f_category-image:
-  url: /assets/external/6581dca52aaa773978d199dd_construction-materials-are-used-for-buildings.jpg
+  url: /assets/images/flamingo-paint-mat-black-gloss-gotogh.com-1-accra-coral_azar-shield-dulux_bbc_duo_water-proof_coating_wood-metal-doors_wall-store_hardware_ghana.png
   alt: null
 layout: "[categories].html"
 slug: construction
