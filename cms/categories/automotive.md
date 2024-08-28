@@ -7,7 +7,7 @@ f_short-description: Car engine, Toyota corolla , Car batteries, Tyres, Engine
   oil, Tracking devices, Car radiator, Truck rims, wind screen, vans, Trucks and
   Vehicle front guard.
 f_category-image:
-  url: /assets/images/yokohama_tyres_terrain_equipment_ghana_limited.png
+  url: /assets/images/phoenix1_ashork_layland_pick-up-truck_car-1_vehicle-diesel_1.5_cargo_box_load_carrier_accra-ghana-gotogh.com.jpg
   alt: null
 layout: "[categories].html"
 slug: automotive
