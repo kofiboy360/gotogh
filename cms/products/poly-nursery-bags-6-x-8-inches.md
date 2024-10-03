@@ -1,10 +1,10 @@
 ---
-title: "Poly Nursery Bags 6 x 8 inches  "
+title: "Poly Nursery Bags 5 x 7 inches  "
 created-on: 2024-07-19T22:53:53.790Z
 updated-on: 2024-07-19T22:53:53.826Z
 published-on: 2024-07-19T22:53:53.872Z
 f_description: |-
-  Poly Nursery Bags 6 x 8 inches 
+  Poly Nursery Bags 5 x 7 inches 
   100pcs in a pack
 f_price: 60
 f_category-2: cms/categories/agriculture.md
