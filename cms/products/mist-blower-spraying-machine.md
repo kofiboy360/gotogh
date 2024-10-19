@@ -6,7 +6,7 @@ published-on: 2024-01-07T20:16:53.221Z
 f_description: flamingo multi-purpose paint is for both interior and exterior
   decoration it comes in different colours to suit your taste. it has superior
   coverage and gives  a good shining surface to the walls.
-f_price: 550
+f_price: 600
 f_category-2: cms/categories/construction.md
 f_product-images: []
 f_main-product-image:
