@@ -1,21 +1,26 @@
 ---
-title: Mist blower spraying machine
+title: FLAMINGO PAINT 20 Litres
 created-on: 2024-01-07T20:16:53.181Z
 updated-on: 2024-01-07T20:16:53.199Z
 published-on: 2024-01-07T20:16:53.221Z
-f_description: 3WF-3A Mist-blower-spraying-machine.
-f_price: 1800
-f_category-2: cms/categories/agriculture.md
-f_product-images:
-  - url: /assets/images/3wf-3a-mist-blower-spraying-machine-2.jpg
-  - url: /assets/images/3wf-3a-mist-blower-spraying-machine-1.jpg
+f_description: flamingo multi-purpose paint is for both interior and exterior
+  decoration it comes in different colours to suit your taste. it has superior
+  coverage and gives  a good shining surface to the walls.
+f_price: 550
+f_category-2: cms/categories/construction.md
+f_product-images: []
 f_main-product-image:
-  url: /assets/images/3wf-3a-mist-blower-spraying-machine.jpg
+  url: /assets/images/flamingo-paint-mat-black-gotogh.com-2-accra-ghana.png
 tags: products
 layout: "[products].html"
 date: 2024-01-07T20:16:53.243Z
 seo:
   noindex: false
-  twitter:title: summary
-  twitter:card: summary
+  twitter:title: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
+  twitter:card: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
+  title: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
+  description: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
+  og:title: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
+  twitter:site: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
+  twitter:creator: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
 ---
