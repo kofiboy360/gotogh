@@ -1,5 +1,5 @@
 ---
-title: Snake repellant 1Litre
+title: Snake repellent 1Litre
 created-on: 2024-01-07T14:06:01.219Z
 updated-on: 2024-01-07T14:06:01.238Z
 published-on: 2024-01-07T14:06:01.250Z
