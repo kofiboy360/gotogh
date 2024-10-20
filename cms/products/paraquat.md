@@ -3,7 +3,7 @@ title: POLY GROW BAGS 15 X 15 inch
 created-on: 2024-01-07T20:24:08.225Z
 updated-on: 2024-01-07T20:24:08.254Z
 published-on: 2024-01-07T20:24:08.275Z
-f_description: Poly grow bags for greenhouse  farming. 15 X 15 inch.
+f_description: Poly grow bags for greenhouse  farming. 15 X 15 inch. 100 Pieces in a pack.
 f_price: 100
 f_category-2: cms/categories/agriculture.md
 f_product-images: []
