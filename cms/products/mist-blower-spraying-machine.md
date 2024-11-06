@@ -1,26 +1,40 @@
 ---
-title: FLAMINGO PAINT 20 Litres
+title: VETERINARY SERVICES
 created-on: 2024-01-07T20:16:53.181Z
 updated-on: 2024-01-07T20:16:53.199Z
 published-on: 2024-01-07T20:16:53.221Z
-f_description: flamingo multi-purpose paint is for both interior and exterior
-  decoration it comes in different colours to suit your taste. it has superior
-  coverage and gives  a good shining surface to the walls.
-f_price: 600
-f_category-2: cms/categories/construction.md
+f_description: Vet-services-vaccination-Disease-treatment-animal-feed;
+  dog-food-poultry-feed-wheat-bran-castration-pet-grooming-consultation for
+  cattle-sheep-goats-pigs-rabbits and cats.
+f_price: 150
+f_category-2: cms/categories/pets.md
 f_product-images: []
 f_main-product-image:
-  url: /assets/images/flamingo-paint-mat-black-gotogh.com-2-accra-ghana.png
+  url: /assets/images/veterinary-services-animal-care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-nsawam-gotogh.com-oyarifa-vet-services-vaccination-disease-treatment-animal-feed-dog-fooabokobi-adenta-madina-extension-1.jpg
 tags: products
 layout: "[products].html"
 date: 2024-01-07T20:16:53.243Z
 seo:
   noindex: false
-  twitter:title: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
-  twitter:card: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
-  title: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
-  description: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
-  og:title: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
-  twitter:site: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
-  twitter:creator: flamingo-paint-mat-black-gotogh.com-2-accra-ghana-interior-exterior-colours-emulsion-gloss-painter-house-home
+  twitter:title: VETERINARY-SERVICES-animal
+    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
+    dog-fooabokobi-adenta-madina-extension-1
+  twitter:card: VETERINARY-SERVICES-animal
+    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
+    dog-fooabokobi-adenta-madina-extension-1
+  title: VETERINARY-SERVICES-animal
+    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
+    dog-fooabokobi-adenta-madina-extension-1
+  description: VETERINARY-SERVICES-animal
+    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
+    dog-fooabokobi-adenta-madina-extension-1
+  og:title: VETERINARY-SERVICES-animal
+    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
+    dog-fooabokobi-adenta-madina-extension-1
+  twitter:site: VETERINARY-SERVICES-animal
+    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
+    dog-fooabokobi-adenta-madina-extension-1
+  twitter:creator: VETERINARY-SERVICES-animal
+    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
+    dog-fooabokobi-adenta-madina-extension-1
 ---
