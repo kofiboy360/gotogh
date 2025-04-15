@@ -7,7 +7,7 @@ f_description: |
   Strong and durable
   Good for companies, churches, schools, community etc.
   Different sizes available. 6 cubic, 10 m3 and 12 cubic.
-f_price: 4600
+f_price: 46000
 f_category-2: cms/categories/sanitation-equipment.md
 f_product-images: []
 f_main-product-image:
