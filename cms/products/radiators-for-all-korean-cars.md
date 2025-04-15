@@ -4,7 +4,7 @@ created-on: 2024-01-07T16:47:15.622Z
 updated-on: 2024-01-07T16:47:15.636Z
 published-on: 2024-01-07T16:47:15.650Z
 f_description: Yokohama 195/65/15
-f_price: 1000
+f_price: 800
 f_category-2: cms/categories/automotive.md
 f_main-product-image:
   url: /assets/images/yokohama-yokohama0-tyres-store-new-accra-ghana-goodyear-michilin-gt-radial.jpg
