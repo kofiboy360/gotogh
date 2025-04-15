@@ -6,7 +6,7 @@ published-on: 2024-06-29T19:12:53.024Z
 f_description: "waste container for companies, communities and district
   assemblies. 12 cubic and 6 cubic meters available. strong and durable.
   Different designs and size available to suit your needs. "
-f_price: 25000
+f_price: 46000
 f_category-2: cms/categories/sanitation-equipment.md
 f_product-images: []
 f_main-product-image:
