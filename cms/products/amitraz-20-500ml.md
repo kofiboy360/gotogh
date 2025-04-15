@@ -11,7 +11,7 @@ f_description: >-
   It is effective against ticks that are already resistant to synthetic pyrethroids and/or organophosphates
 
    Broad Spectrum mites killer in livestock and Poultry.
-f_price: 220
+f_price: 247
 f_category-2: cms/categories/pets.md
 f_product-images:
   - url: /assets/images/amiraz-100ml-500ml-gotogh.com-1024x1024.jpg
