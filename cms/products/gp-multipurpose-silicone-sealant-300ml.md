@@ -5,7 +5,7 @@ updated-on: 2024-02-14T23:16:10.622Z
 published-on: 2024-02-14T23:16:10.637Z
 f_description: Multipurpose  silicone sealant is used to insulating and filling
   of larger seams, joints, cracks such as gaps between walls, windows and doors.
-f_price: 23
+f_price: 30
 f_category-2: cms/categories/construction.md
 f_product-images: []
 f_main-product-image:
