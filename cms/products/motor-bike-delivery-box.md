@@ -1,5 +1,5 @@
 ---
-title: Motor Bike Delivery Box
+title: Motor Bike Delivery Box (H X L X W) 20" X 18" X 18"
 created-on: 2024-01-31T00:22:51.213Z
 updated-on: 2024-01-31T00:22:51.230Z
 published-on: 2024-01-31T00:22:51.244Z
