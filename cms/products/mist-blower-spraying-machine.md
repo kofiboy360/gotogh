@@ -1,40 +1,24 @@
 ---
-title: VETERINARY SERVICES
+title: ANTI SNAKE REPELLENT
 created-on: 2024-01-07T20:16:53.181Z
 updated-on: 2024-01-07T20:16:53.199Z
 published-on: 2024-01-07T20:16:53.221Z
-f_description: Vet-services-vaccination-Disease-treatment-animal-feed;
-  dog-food-poultry-feed-wheat-bran-castration-pet-grooming-consultation for
-  cattle-sheep-goats-pigs-rabbits and cats.
-f_price: 150
+f_description: Effective against all species of snakes
+f_price: 160
 f_category-2: cms/categories/pets.md
 f_product-images: []
 f_main-product-image:
-  url: /assets/images/veterinary-services-animal-care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-nsawam-gotogh.com-oyarifa-vet-services-vaccination-disease-treatment-animal-feed-dog-fooabokobi-adenta-madina-extension-1.jpg
+  url: /assets/images/anti-snake-repellent-repellant-home-garden-farm-ghana-accra-spray-pesticide-pest-viper-cobra-python-rattlesnake-anaconda-mamba-paf-ada-control-fumigation-treatment-scorpion-1.jpg
 tags: products
 layout: "[products].html"
 date: 2024-01-07T20:16:53.243Z
 seo:
   noindex: false
-  twitter:title: VETERINARY-SERVICES-animal
-    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
-    dog-fooabokobi-adenta-madina-extension-1
-  twitter:card: VETERINARY-SERVICES-animal
-    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
-    dog-fooabokobi-adenta-madina-extension-1
-  title: VETERINARY-SERVICES-animal
-    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
-    dog-fooabokobi-adenta-madina-extension-1
-  description: VETERINARY-SERVICES-animal
-    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
-    dog-fooabokobi-adenta-madina-extension-1
-  og:title: VETERINARY-SERVICES-animal
-    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
-    dog-fooabokobi-adenta-madina-extension-1
-  twitter:site: VETERINARY-SERVICES-animal
-    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
-    dog-fooabokobi-adenta-madina-extension-1
-  twitter:creator: VETERINARY-SERVICES-animal
-    care-cattle-sheep-goats-dogs-grooming-breeding-veterinay-accra-ghana-dodowa-Nsawam-gotogh.com-oyarifa-Vet-services-vaccination-Disease-treatment-animal-feed;
-    dog-fooabokobi-adenta-madina-extension-1
+  twitter:title: anti-snake-repellent-repellant-home-garden-farm-ghana-accra-spray-pesticide-pest-viper-cobra-python-rattlesnake-anaconda-mamba-paf-ada-control-fumigation-treatment-scorpion-1
+  twitter:card: anti-snake-repellent-repellant-home-garden-farm-ghana-accra-spray-pesticide-pest-viper-cobra-python-rattlesnake-anaconda-mamba-paf-ada-control-fumigation-treatment-scorpion-1
+  title: anti-snake-repellent-repellant-home-garden-farm-ghana-accra-spray-pesticide-pest-viper-cobra-python-rattlesnake-anaconda-mamba-paf-ada-control-fumigation-treatment-scorpion-1
+  description: anti-snake-repellent-repellant-home-garden-farm-ghana-accra-spray-pesticide-pest-viper-cobra-python-rattlesnake-anaconda-mamba-paf-ada-control-fumigation-treatment-scorpion-1
+  og:title: anti-snake-repellent-repellant-home-garden-farm-ghana-accra-spray-pesticide-pest-viper-cobra-python-rattlesnake-anaconda-mamba-paf-ada-control-fumigation-treatment-scorpion-1
+  twitter:site: anti-snake-repellent-repellant-home-garden-farm-ghana-accra-spray-pesticide-pest-viper-cobra-python-rattlesnake-anaconda-mamba-paf-ada-control-fumigation-treatment-scorpion-1
+  twitter:creator: anti-snake-repellent-repellant-home-garden-farm-ghana-accra-spray-pesticide-pest-viper-cobra-python-rattlesnake-anaconda-mamba-paf-ada-control-fumigation-treatment-scorpion-1
 ---
