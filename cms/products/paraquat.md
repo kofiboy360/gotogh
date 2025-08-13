@@ -5,7 +5,7 @@ updated-on: 2024-01-07T20:24:08.254Z
 published-on: 2024-01-07T20:24:08.275Z
 f_description: Poly grow bags for greenhouse  farming. 12 X 12 inch. 100 Pieces
   in a pack. Suitable for growing vegetables.
-f_price: 98
+f_price: 100
 f_category-2: cms/categories/agriculture.md
 f_product-images: []
 f_main-product-image:
