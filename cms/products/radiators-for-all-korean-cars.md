@@ -1,5 +1,5 @@
 ---
-title: "PP WOVEN SACKS "
+title: "PP WOVEN (50kg) SACKS 200 in a pack "
 created-on: 2024-01-07T16:47:15.622Z
 updated-on: 2024-01-07T16:47:15.636Z
 published-on: 2024-01-07T16:47:15.650Z
