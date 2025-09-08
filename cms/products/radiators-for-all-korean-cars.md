@@ -21,7 +21,7 @@ f_description: >
   25kg Ghc800
 
   50kg Ghc1200
-f_price: 600
+f_price: 1200
 f_category-2: cms/categories/industrial.md
 f_product-images:
   - url: /assets/images/50kg-plastic-sugar-bag-white-woven-flour-polypropylene-grain-bags-with-blue-line1reusable-50kg-pp-4-woven-bags-recyclable-polypropylene-sack-with-waterproof-ldpe-hdpe-inner-bag-for-sugar-www.gotogh.com-ghana-accra-africa.png
