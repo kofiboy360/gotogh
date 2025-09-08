@@ -1,5 +1,5 @@
 ---
-title: Trash bags for 240liter bin
+title: Trash bags for 240liter bin (200 pieces in a pack)
 created-on: 2025-09-08T23:18:42.719Z
 updated-on: 2025-09-08T23:18:42.739Z
 published-on: 2025-09-08T23:18:42.759Z
