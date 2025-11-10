@@ -3,7 +3,14 @@ title: SERVICES
 created-on: 2024-01-30T22:44:43.079Z
 updated-on: 2024-01-30T22:44:43.096Z
 published-on: 2024-01-30T22:44:43.112Z
-f_short-description: All Services
+f_short-description: >-
+  Industrial spraying services: 
+
+  Industrial structures and equipment spraying, industrial floor coating, rusty roof coating.
+
+  veterinary services
+
+  Pest control services
 f_category-image:
   url: /assets/images/industrial-services-steel-structure-painting-industrial-spraying-services-rust-coating-painting-metal-equipment-roof-epoxy-floor.jpg
 tags: categories
