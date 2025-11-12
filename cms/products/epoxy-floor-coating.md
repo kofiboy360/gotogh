@@ -11,7 +11,7 @@ f_description: >
 
   It is suitable for high traffic areas, industrial spaces, garages, warehouses, factory floors, residential and retail spaces.
 f_price: 600
-f_category-2: cms/categories/construction.md
+f_category-2: cms/categories/services-1.md
 f_product-images:
   - url: /assets/images/bigstock-a-construction-worker-apply-ep-394447790-steel-structure-painting-industrial-spraying-services-rust-coating-painting-metal-equipment-roof-1-.jpeg
 f_main-product-image:
