@@ -54,7 +54,7 @@ f_description: >-
 
 
   minimum order 1 box 24 in a box
-f_price: 23
+f_price: 25
 f_category-2: cms/categories/construction.md
 f_product-images:
   - url: /assets/images/liquid-nail-2-adhesive-tcp-gotogh.com-ghana.accra-painting-construction.jpg
