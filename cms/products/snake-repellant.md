@@ -4,7 +4,7 @@ created-on: 2024-01-07T14:06:01.219Z
 updated-on: 2024-01-07T14:06:01.238Z
 published-on: 2024-01-07T14:06:01.250Z
 f_description: Different sizes available. send us us the sizes you need for customize cutting.
-f_price: 15
+f_price: 5
 f_category-2: cms/categories/industrial.md
 f_product-images: []
 f_main-product-image:
