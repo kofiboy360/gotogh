@@ -1,11 +1,12 @@
 ---
-title: Fresh Ginger
+title: Fresh Ginger 1kg
 created-on: 2025-11-18T10:42:23.768Z
 updated-on: 2025-11-18T10:42:23.792Z
 published-on: 2025-11-18T10:42:23.809Z
 f_description: |
   Fresh Ginger
-  Fresh and organic 
+  Fresh and organic  packaged in 5kg, 10kg, 25kg and 50kg bags
+  call for bulk purchase.
 f_price: 60
 f_category-2: cms/categories/food-products.md
 f_main-product-image:
