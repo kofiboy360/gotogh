@@ -1,5 +1,5 @@
 ---
-title: ANTI SNAKE REPELLENT
+title: " Snake Repellent"
 created-on: 2024-01-07T20:16:53.181Z
 updated-on: 2024-01-07T20:16:53.199Z
 published-on: 2024-01-07T20:16:53.221Z
