@@ -5,7 +5,7 @@ updated-on: 2025-11-17T23:52:07.939Z
 published-on: 2025-11-17T23:52:07.951Z
 f_description: Powder from quality dried organic ginger. It acts as a seasoning
   agent, food flavour enhancer, etc.
-f_price: 60
+f_price: 250
 f_category-2: cms/categories/food-products.md
 f_product-images:
   - url: /assets/images/benefits-of-ginger-powder-ginger-powder-sachet-mtr-powder-original-hot-source-soup-food-for-sale-accra-ghana.webp
