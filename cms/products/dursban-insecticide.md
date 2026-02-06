@@ -18,7 +18,7 @@ f_description: >+
 
   0.5-2.5 L/Ha
 
-f_price: 75
+f_price: 80
 f_category-2: cms/categories/agriculture.md
 f_product-images:
   - url: /assets/images/nsecticide-dursban-vegetables-all-crops-1.jpg
