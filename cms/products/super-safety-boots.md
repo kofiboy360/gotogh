@@ -1,13 +1,19 @@
 ---
-title: Motor Bike delivery Box 20 X 18 X 18 INCHES
+title: Motor Bike delivery Box ( W ) 480mm X ( L ) 520mm x ( H ) 590mm
 created-on: 2024-01-07T16:51:48.159Z
 updated-on: 2024-01-07T16:51:48.173Z
 published-on: 2024-01-07T16:51:48.185Z
-f_description: Motor Bike delivery Boxes with different sizes for different motor bikes.
+f_description: |
+  Motor Bike delivery Boxes with different sizes for different motor bikes.
+  light weight
+  tough, strong and durable.
+  easy to install.
 f_price: 800
 f_category-2: cms/categories/automotive.md
+f_product-images:
+  - url: /assets/images/moto-bike-deliver-box-.png
 f_main-product-image:
-  url: /assets/images/motor-bike-delivery-box-2.jpg
+  url: /assets/images/moto-bike-deliver-box-gotogh-.jpg
 tags: products
 layout: "[products].html"
 date: 2024-01-07T16:51:48.196Z
