@@ -1,5 +1,5 @@
 ---
-title: Asphalt Bitumen
+title: Asphalt Bitumen 20kg
 created-on: 2026-02-05T21:06:36.892Z
 updated-on: 2026-02-05T21:06:36.910Z
 published-on: 2026-02-05T21:06:36.928Z
@@ -10,6 +10,7 @@ f_product-images:
   - url: /assets/images/asphalt-bitumen-dump-water-proof-construction-building-impervious-watertight-impemeable-leakproof-water-sealed-hydrophobic-non-porous-2.jpg
   - url: /assets/images/asphalt-bitumen-dump-water-proof-construction-building-impervious-watertight-impemeable-leakproof-water-sealed-hydrophobic-non-porous-4.jpg
   - url: /assets/images/asphalt-bitumen-dump-water-proof-construction-building-impervious-watertight-impemeable-leakproof-water-sealed-hydrophobic-non-porous-1.jpg
+  - url: /assets/images/asphalt-bitumen-dump-water-proof-construction-building-impervious-watertight-impemeable-leakproof-water-sealed-hydrophobic-non-porous-5.jpg
 f_main-product-image:
   url: /assets/images/asphalt-bitumen-dump-water-proof-construction-building-impervious-watertight-impemeable-leakproof-water-sealed-hydrophobic-non-porous.jpg
 tags: products
