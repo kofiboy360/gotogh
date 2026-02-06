@@ -12,7 +12,7 @@ f_description: >-
   sold in a box of 24 pieces. 
 
   minimum order 1 box.
-f_price: 35
+f_price: 30
 f_category-2: cms/categories/construction.md
 f_product-images:
   - url: /assets/images/gp-silicone-multipurpose-silicone-sealant-is-used-to-insulating-and-filling-of-larger-seams-joints-cracks-such-as-gaps-between-walls-windows-and-doors.1.jpg
