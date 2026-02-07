@@ -5,9 +5,10 @@ updated-on: 2023-12-19T14:41:15.583Z
 published-on: 2023-12-19T14:50:18.877Z
 f_short-description: Expiry date and batch printing machine, Crown cocking
   machine, Generator set, Forklift, Pallet jack truck, Life jacket, Overall,
-  pulleys, electric motors, Caustic soda and more.
+  pulleys, electric motors, Caustic soda, pipe bending machines, salt grinding
+  machine etc.
 f_category-image:
-  url: /assets/images/600mmcv-1-roof-ventilator-extractor-fan-accra-ghana-turbo_turbine.jpg
+  url: /assets/images/indudtrial-machines-gotogh-ghana-accra.jpg
   alt: null
 layout: "[categories].html"
 slug: industrial
