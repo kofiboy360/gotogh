@@ -3,11 +3,13 @@ title: Veterinary Products
 created-on: 2023-12-18T15:02:04.039Z
 updated-on: 2023-12-18T15:24:31.335Z
 published-on: 2023-12-18T17:41:20.787Z
-f_short-description: |-
-  veterinary Products  for cattle, Dogs, Rabbits, sheep and goat: 
+f_short-description: >-
+  veterinary Products  for cattle, Dogs, Rabbits, sheep and goat: vitamins,
+  antibiotics, 
+
   dog kennel , dog food, dog chain, Dewormer, dog shampoo, mouth guards etc.
 f_category-image:
-  url: /assets/external/6580642ad18d73552bb47226_we-care-for-many-kinds-of-animals.webp
+  url: /assets/images/veterinary-farm-ghana-gotogh.jpg
   alt: null
 layout: "[categories].html"
 slug: pets
