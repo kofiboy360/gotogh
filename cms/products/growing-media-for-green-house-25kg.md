@@ -1,5 +1,5 @@
 ---
-title: Growing Media For Green House ( 25kg bag )
+title: Cocopeat ( 25kg bag )
 created-on: 2024-02-02T09:45:41.600Z
 updated-on: 2024-02-02T09:45:41.616Z
 published-on: 2024-02-02T09:45:41.630Z
@@ -40,8 +40,11 @@ layout: "[products].html"
 date: 2024-02-02T09:45:41.645Z
 seo:
   noindex: false
-  twitter:title: summary
-  twitter:card: summary
-  title: Growing-media-medium-green-house-plant-nursery-farm-25kg
-  description: Growing-media-medium-green-house-plant-nursery-farm-25kg
+  twitter:title: Cocopeat-farming-accra-ghana-Growing-media-medium-green-house-plant-nursery-farm-25kg
+  twitter:card: Cocopeat-farming-accra-ghana-Growing-media-medium-green-house-plant-nursery-farm-25kg
+  title: Cocopeat-farming-accra-ghana-Growing-media-medium-green-house-plant-nursery-farm-25kg
+  description: Cocopeat-farming-accra-ghana-Growing-media-medium-green-house-plant-nursery-farm-25kg
+  og:title: Cocopeat-farming-accra-ghana-Growing-media-medium-green-house-plant-nursery-farm-25kg
+  twitter:site: Cocopeat-farming-accra-ghana-Growing-media-medium-green-house-plant-nursery-farm-25kg
+  twitter:creator: Cocopeat-farming-accra-ghana-Growing-media-medium-green-house-plant-nursery-farm-25kg
 ---
