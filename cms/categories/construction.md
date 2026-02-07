@@ -5,9 +5,9 @@ updated-on: 2023-12-19T18:10:51.644Z
 published-on: 2023-12-19T18:26:01.079Z
 f_short-description: Paint, Water and Dump proof, Silicone sealant, Polyurethane
   foam sealant, Decorative corner moulds, Ceiling panels, putty filler,
-  graffiato etc.
+  graffiato, asphalt-bitumen, Dump- course- etc.
 f_category-image:
-  url: /assets/images/flamingo-paint-mat-black-gloss-gotogh.com-1-accra-coral_azar-shield-dulux_bbc_duo_water-proof_coating_wood-metal-doors_wall-store_hardware_ghana.png
+  url: /assets/images/construction_asphalt_bitumen-_dump_proof_cours.jpg
   alt: null
 layout: "[categories].html"
 slug: construction
