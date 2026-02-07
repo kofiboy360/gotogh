@@ -3,14 +3,14 @@ title: Agriculture
 created-on: 2023-12-18T15:01:24.264Z
 updated-on: 2023-12-18T17:01:19.046Z
 published-on: 2023-12-18T17:41:20.787Z
-f_short-description: Tractors, fertilizer, planting seeds, pesticides,
-  weedicides, animal feed, garden tools, irrigation kits, irrigation pipes,
-  irrigation pumps, rice trans planter, cassava planter, drying equipment,
-  cassava harvester, potato harvester, grain cleaner, vibrating screens, PTO
-  shafts, manure spreader, fertilizer spreader, lime spreader, Massey Ferguson
-  tractor parts.
+f_short-description: Tractors, fertilizer, grow bags, poly bags, nursery bags,
+  plastic mulch, cocopeat, planting seeds, pesticides, weedicides, animal feed,
+  garden tools, irrigation kits, irrigation pipes, irrigation pumps, rice trans
+  planter, cassava planter, drying equipment, cassava harvester, potato
+  harvester, grain cleaner, vibrating screens, PTO shafts, manure spreader,
+  fertilizer spreader, lime spreader, Massey Ferguson tractor parts.
 f_category-image:
-  url: /assets/external/65807adae26ebfa760086a35_telematics-for-agriculture-and-farming-industry-header-preview-1920x1280.webp
+  url: /assets/images/agriculture-farm-ghana-gotogh.jpg
   alt: null
 layout: "[categories].html"
 slug: agriculture
