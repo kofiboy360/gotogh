@@ -7,7 +7,7 @@ f_short-description: Paint, Water and Dump proof, Silicone sealant, Polyurethane
   foam sealant, Decorative corner moulds, Ceiling panels, putty filler,
   graffiato, asphalt-bitumen, Dump- course- etc.
 f_category-image:
-  url: /assets/images/construction_asphalt_bitumen-_dump_proof_cours.jpg
+  url: /assets/images/construction_asphalt_bitumen-_dump_proof_cours-44.jpg
   alt: null
 layout: "[categories].html"
 slug: construction
