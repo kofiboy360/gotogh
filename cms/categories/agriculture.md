@@ -10,7 +10,7 @@ f_short-description: Tractors, fertilizer, grow bags, poly bags, nursery bags,
   harvester, grain cleaner, vibrating screens, PTO shafts, manure spreader,
   fertilizer spreader, lime spreader, Massey Ferguson tractor parts.
 f_category-image:
-  url: /assets/images/agriculture-farm-ghana-gotogh.jpg
+  url: /assets/images/agriculture-farm-ghana-gotogh-products.jpg
   alt: null
 layout: "[categories].html"
 slug: agriculture
