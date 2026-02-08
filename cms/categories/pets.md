@@ -9,7 +9,7 @@ f_short-description: >-
 
   dog kennel , dog food, dog chain, Dewormer, dog shampoo, mouth guards etc.
 f_category-image:
-  url: /assets/images/veterinary-farm-ghana-gotogh.jpg
+  url: /assets/images/veterinary-products-gotogh-accra-ghana.jpg
   alt: null
 layout: "[categories].html"
 slug: pets
