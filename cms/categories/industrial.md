@@ -8,7 +8,7 @@ f_short-description: Expiry date and batch printing machine, Crown cocking
   pulleys, electric motors, Caustic soda, pipe bending machines, salt grinding
   machine etc.
 f_category-image:
-  url: /assets/images/indudtrial-machines-gotogh-ghana-accra.jpg
+  url: /assets/images/indudtrial-machines-gotogh-ghana-accra-3.jpg
   alt: null
 layout: "[categories].html"
 slug: industrial
