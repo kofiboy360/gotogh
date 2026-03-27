@@ -7,7 +7,7 @@ f_description: |-
   GT Radial Tires 195/65R15
   Other sizes available for all cars. call for your tire size.
 f_price: 900
-f_category-2: cms/categories/automotive.md
+f_category-2: cms/categories/parts-and-accessories.md
 f_main-product-image:
   url: /assets/images/terr-equipment-ghana-1-gotogh-tyres.jpg
 tags: products
