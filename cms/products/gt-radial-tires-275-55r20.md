@@ -7,7 +7,7 @@ f_description: |-
   GT Radial 275 /55R20
   Other sizes available for all cars. call for your tire size.
 f_price: 2600
-f_category-2: cms/categories/automotive.md
+f_category-2: cms/categories/parts-and-accessories.md
 f_main-product-image:
   url: /assets/images/terr-equipment-ghana-2-gotogh-tyres.jpg
 tags: products
