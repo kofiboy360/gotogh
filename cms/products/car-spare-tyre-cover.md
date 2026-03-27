@@ -5,7 +5,7 @@ updated-on: 2025-05-17T00:42:19.379Z
 published-on: 2025-05-17T00:42:19.396Z
 f_description: Car spare tyre cover; different size available .
 f_price: 200
-f_category-2: cms/categories/automotive.md
+f_category-2: cms/categories/parts-and-accessories.md
 f_main-product-image:
   url: /assets/images/tyre-covehicles-parts-and-accessories-like-tyres-batteries-motor-bikes-delivery-box-head-lights-engines-radiators-radiator-cups-spare-tyre-cover-spare-tyre-holders-spare-tyre-lock-etc.-for-popular-brands-mercedes.jpg
 tags: products
