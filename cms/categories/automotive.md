@@ -1,5 +1,5 @@
 ---
-title: Automotive
+title: Vehicles
 created-on: 2023-12-19T18:12:40.847Z
 updated-on: 2023-12-19T18:12:40.847Z
 published-on: 2023-12-19T18:26:01.079Z
