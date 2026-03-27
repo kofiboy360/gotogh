@@ -7,7 +7,7 @@ f_description: |-
   GT Radial tires 235/60R18
   Other sizes available for all cars. call for your tire size.
 f_price: 1500
-f_category-2: cms/categories/automotive.md
+f_category-2: cms/categories/parts-and-accessories.md
 f_main-product-image:
   url: /assets/images/terr-equipment-ghana-gotogh-tyres.jpg
 tags: products
