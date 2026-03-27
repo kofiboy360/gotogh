@@ -5,7 +5,7 @@ updated-on: 2024-04-22T14:19:04.385Z
 published-on: 2024-04-22T14:19:04.407Z
 f_description: Michelin 315/80R22.5 smooth
 f_price: 10670
-f_category-2: cms/categories/automotive.md
+f_category-2: cms/categories/parts-and-accessories.md
 f_product-images: []
 f_main-product-image:
   url: /assets/images/315-80r22-5-20pr-l-michelin-_tyres_terrain_equipment_ghana_limited_.png
