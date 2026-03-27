@@ -5,7 +5,7 @@ updated-on: 2024-04-22T14:29:02.515Z
 published-on: 2024-04-22T14:29:02.533Z
 f_description: Michelin Tyres 215-70R15c
 f_price: 2800
-f_category-2: cms/categories/automotive.md
+f_category-2: cms/categories/parts-and-accessories.md
 f_product-images:
   - url: /assets/images/215-70r15c-20pr-l-michelin-4_tyres_terrain_equipment_ghana_limited_1336x336.jpg
   - url: /assets/images/215-70r15c-20pr-l-michelin-3_tyres_terrain_equipment_ghana_limited_1336x336.jpg
