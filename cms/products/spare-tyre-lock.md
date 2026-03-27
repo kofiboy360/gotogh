@@ -5,7 +5,7 @@ updated-on: 2025-05-17T00:54:35.426Z
 published-on: 2025-05-17T00:54:35.443Z
 f_description: spare tyre lock
 f_price: 250
-f_category-2: cms/categories/automotive.md
+f_category-2: cms/categories/parts-and-accessories.md
 f_main-product-image:
   url: /assets/images/spare-tyre-lock-search-vehicles-parts-and-accessories-like-tyres-batteries-motor-bikes-delivery-box-head-lights-engines-radiators-radiator-cups-spare-tyre-cover-spare-tyre-holders-spare-tyre-lock-etc.-for-popular.jpg
 tags: products
