@@ -35,7 +35,7 @@ f_description: >-
 
   Other sizes are available.
 f_price: 1850
-f_category-2: cms/categories/automotive.md
+f_category-2: cms/categories/parts-and-accessories.md
 f_main-product-image:
   url: /assets/images/bosch-batteries-15-17-19-21-plates-terran-equipment-ghana-www.gotogh.com.jpg
 tags: products
