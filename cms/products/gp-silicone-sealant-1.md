@@ -17,7 +17,7 @@ f_category-2: cms/categories/construction.md
 f_product-images:
   - url: /assets/images/gp-silicone-multipurpose-silicone-sealant-is-used-to-insulating-and-filling-of-larger-seams-joints-cracks-such-as-gaps-between-walls-windows-and-doors.1.jpg
 f_main-product-image:
-  url: /assets/images/gp-silicone-multipurpose-silicone-sealant-is-used-to-insulating-and-filling-of-larger-seams-joints-cracks-such-as-gaps-between-walls-windows-and-doors.1.jpg
+  url: /assets/images/gp-general-prpose-multipurpose-sealicone-sealant-polyurethane-foam-is-used-to-insulating-and-filling-of-larger-seams-joints-cracks-such-as-gaps-between-walls-windows-and-doors.2-construction-building.jpg
 tags: products
 layout: "[products].html"
 date: 2024-01-12T17:03:23.659Z
