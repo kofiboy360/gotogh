@@ -3,12 +3,11 @@ title: Vehicles
 created-on: 2023-12-19T18:12:40.847Z
 updated-on: 2023-12-19T18:12:40.847Z
 published-on: 2023-12-19T18:26:01.079Z
-f_short-description: >+
-  Search vehicles, parts and accessories like tyres, batteries, motor bikes,
-  delivery box, head lights, engines, radiators, radiator caps, spare tyre
-  cover, spare tyre holders, spare tyre lock etc. for Popular brands- Mercedes
-  Benz, Nissan, Toyota, Lexus, VW, Honda, Kia, Jeep and mitsubishi.
+f_short-description: >
+  Search  for Popular brands- Mercedes Benz, Nissan, Toyota, Lexus, VW, Honda,
+  Kia, Jeep and Mitsubishi.
 
+  cars, trucks and vans
 f_category-image:
   url: /assets/images/search-vehicles-parts-and-accessories-like-tyres-batteries-motor-bikes-delivery-box-head-lights-engines-radiators-radiator-cups-spare-tyre-cover-spare-tyre-holders-spare-tyre-lock-etc.-for-popular-brands-mercedes.webp
   alt: null
