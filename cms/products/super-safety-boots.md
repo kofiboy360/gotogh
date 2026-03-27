@@ -26,7 +26,7 @@ f_product-images:
   - url: /assets/images/car-for-sale-mercedes-benz.jpg
   - url: /assets/images/car-for-sale-mercedes-benz-4.jpg
 f_main-product-image:
-  url: /assets/images/car-for-sale-mercedes-benz-1.jpg
+  url: /assets/images/car-for-sale-mercedes-benz.jpg
 tags: products
 layout: "[products].html"
 date: 2024-01-07T16:51:48.196Z
