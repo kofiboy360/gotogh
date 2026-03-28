@@ -6,7 +6,7 @@ published-on: 2026-03-28T21:43:58.524Z
 f_description: >
   
   This 20L Metal Fuel Jerrycan is built for reliable fuel storage and transport. Its robust steel construction ensures durability, while the secure cap help prevent spillage.
-f_price: 400
+f_price: 450
 f_category-2: cms/categories/parts-and-accessories.md
 f_main-product-image:
   url: /assets/images/20l-metal-jerry-can-diesel-petrol-oil-water.jpg
