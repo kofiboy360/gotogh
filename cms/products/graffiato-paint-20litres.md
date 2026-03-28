@@ -6,7 +6,7 @@ published-on: 2024-02-12T12:43:25.698Z
 f_description: " Premium plus graffiato texture paint is produced with the
   finest materials to protect your walls from damp and salt and also beautify
   it."
-f_price: 500
+f_price: 400
 f_category-2: cms/categories/construction.md
 f_product-images:
   - url: /assets/images/graffiato-paint-putty-filler-paint-mat-black-gotogh.com-accra-ghana.jpg
