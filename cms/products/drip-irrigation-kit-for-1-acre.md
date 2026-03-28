@@ -8,7 +8,7 @@ f_description: |-
   Drip tape kit 4000accessories box (1 piece)
   Drip tape 16mm x 0.2 x 1.6L/H x 0.3M x 2700M (2 coils)
   P.E irrigation pipe 32mm x 1.6 x 65M(CL B) (2 coils)
-f_price: 9000
+f_price: 2000
 f_category-2: cms/categories/agriculture.md
 f_product-images:
   - url: /assets/images/drip-irrigation-pipes-accessories-1-hectare-acre-2-farm3.png
