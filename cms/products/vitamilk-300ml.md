@@ -5,7 +5,7 @@ updated-on: 2024-01-14T07:44:10.563Z
 published-on: 2024-01-14T07:44:10.575Z
 f_description: "300ml sold in packs of 24 bottles. "
 f_price: 250
-f_category-2: cms/categories/household.md
+f_category-2: cms/categories/food-products.md
 f_product-images:
   - url: /assets/images/vita-milk-soya-milk-square_jpg-gotogh.com.jpg
   - url: /assets/images/vita-milk-soya-milk-square_jpg-3-gotogh.com.jpeg
