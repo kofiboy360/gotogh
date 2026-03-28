@@ -1,5 +1,5 @@
 ---
-title: "Dog Kage "
+title: "Dog Cage "
 created-on: 2025-12-06T21:31:06.457Z
 updated-on: 2025-12-06T21:31:06.471Z
 published-on: 2025-12-06T21:31:06.486Z
