@@ -3,9 +3,9 @@ title: Graffiato paint 20Litres
 created-on: 2024-02-12T12:43:25.668Z
 updated-on: 2024-02-12T12:43:25.682Z
 published-on: 2024-02-12T12:43:25.698Z
-f_description: " Premium plus graffiato texture paint is produced with the
-  finest materials to protect your walls from damp and salt and also beautify
-  it."
+f_description: " Graffiato texture paint is produced with the finest materials
+  to protect your walls from damp and salt and also beautify it.  we do free
+  application after buying."
 f_price: 400
 f_category-2: cms/categories/construction.md
 f_product-images:
