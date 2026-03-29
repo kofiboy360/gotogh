@@ -6,11 +6,11 @@ published-on: 2024-05-12T10:03:38.771Z
 f_description: >+
   location; Accra, 
 
-  Our warehouse offers 2300 square meters of space at $10 per sqm per month. We can tailor the size to your requirements. With 24/7 security and surveillance, we ensure a safe environment. Moreover, we provide support with handling, inventory management, and logistics. 
+  Our warehouse offers 2300 square meters of space at $5 per sqm per month. We can tailor the size to your requirements. With 24/7 security and surveillance, we ensure a safe environment. Moreover, we provide support with handling, inventory management, and logistics. 
 
 
 
-f_price: 102
+f_price: 5000
 f_category-2: cms/categories/real-estate.md
 f_product-images:
   - url: /assets/images/buy-sell-warehouse-property-2-home_house_3-estate_land_room_rent_house_apartment_chamber_and_hall_2-self_contain_4.jpg
