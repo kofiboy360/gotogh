@@ -4,8 +4,8 @@ created-on: 2024-01-07T14:06:01.219Z
 updated-on: 2024-01-07T14:06:01.238Z
 published-on: 2024-01-07T14:06:01.250Z
 f_description: 5 in 1 Warehouse that supports all kinds of business 24/7
-  electricity , water, etc USD4 per square metres, Total Square meters is 2,000.
-f_price: 100000
+  electricity , water, etc USD5 per square metres, Total Square meters is 2,000.
+f_price: 5000
 f_category-2: cms/categories/industrial.md
 f_product-images: []
 f_main-product-image:
