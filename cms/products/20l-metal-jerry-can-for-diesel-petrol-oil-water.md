@@ -9,7 +9,7 @@ f_description: >
 f_price: 450
 f_category-2: cms/categories/parts-and-accessories.md
 f_main-product-image:
-  url: /assets/images/20l-metal-jerry-can-diesel-petrol-oil-water.jpg
+  url: /assets/images/20l-metal-jerry-can-diesel-petrol-oil-water-accra-ghana.webp
 tags: products
 layout: "[products].html"
 date: 2026-03-28T21:43:58.539Z
