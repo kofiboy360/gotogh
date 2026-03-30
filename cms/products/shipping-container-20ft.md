@@ -3,7 +3,7 @@ title: Shipping Container 20ft
 created-on: 2026-03-30T06:16:30.276Z
 updated-on: 2026-03-30T06:16:30.294Z
 published-on: 2026-03-30T06:16:30.309Z
-f_description: ShiPping container 20feets almost new.
+f_description: Shipping container 20feets almost new.
 f_price: 30000
 f_category-2: cms/categories/industrial.md
 f_main-product-image:
