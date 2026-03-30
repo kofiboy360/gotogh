@@ -9,7 +9,7 @@ f_description: |-
 f_price: 1000
 f_category-2: cms/categories/parts-and-accessories.md
 f_main-product-image:
-  url: /assets/images/fortune_tyres_tire_terrain_equipment_ghana_limited_accra_ghana_vehicles_bus_truck_suv_car_toyota_nissan_mercedes_benz_kia.1.jpg
+  url: /assets/images/fortune_tyres_tire_terrain_equipment_ghana_limited_accra_ghana_vehicles_bus_truck_suv_car_to-al-size-yota_nissan_mercedes_benz_kia.1-all-sises.jpg
 tags: products
 layout: "[products].html"
 date: 2026-03-29T14:51:35.055Z
