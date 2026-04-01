@@ -4,22 +4,9 @@ created-on: 2024-01-07T16:51:48.159Z
 updated-on: 2024-01-07T16:51:48.173Z
 published-on: 2024-01-07T16:51:48.185Z
 f_description: |
-  Mercedes Benz CLA 250 
-
-  Condition			Make 
-  Foreign used			Mercedes Benz
-
-  Model				year of manufacture
-  CLA				        2014
-
-  Colour				Transmission
-  Black				Automatic
-
-  Mileage			Engine
-  73696km			2000cc
-
-  Fuel				cylinders
-  Petrol				4
+  Mercedes Benz CLA 250 , 
+  Foreign used, 		
+  2014 model, Black, Automatic, 73696km, 2000cc, Petrol 4 cylinders.
 f_price: 220000
 f_category-2: cms/categories/automotive.md
 f_product-images:
